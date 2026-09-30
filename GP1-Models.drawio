@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="uiEyeJWlSqZYsigj-UtM">
-    <mxGraphModel dx="1458" dy="965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1761" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -205,8 +205,8 @@
         <mxCell id="XeHrOaPYUMZ9M4-NrJDd-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" value="&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;5.2 Project Presentation&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="150" x="830" y="455" as="geometry" />
         </mxCell>
-        <mxCell id="XeHrOaPYUMZ9M4-NrJDd-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" value="&lt;p style=&quot;text-align: start;&quot;&gt;&lt;font&gt;5.2.1 Present project&lt;/font&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="30" width="120" x="860" y="505" as="geometry" />
+        <mxCell id="XeHrOaPYUMZ9M4-NrJDd-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" value="&lt;span style=&quot;text-align: start;&quot;&gt;&lt;font&gt;4.4.4 User acceptance testing&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="630" y="1010" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
